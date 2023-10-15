@@ -6,9 +6,9 @@
             "date": "2023-10-01",
             "price": "150.50",
             "products": [
-                {"myrtusCode":11,"orderId":10,"article":"Ebook Reader Pro","serialNumber":"EBOOK-12345","expedition":100003,"price":"55.00 €","orderDate":"12/10/2022"},
-                {"myrtusCode":12,"orderId":11,"article":"Music Streaming Deluxe","serialNumber":"MUSIC-67890","expedition":100003,"price":"25.50 €","orderDate":"11/17/2022"},
-                {"myrtusCode":13,"orderId":12,"article":"Pro Photo Editor","serialNumber":"PHOTO-11223","expedition":100003,"price":"49.99 €","orderDate":"10/27/2022"}
+                {"myrtusCode":11,"orderId":10,"article":"Ebook Reader Pro","serialNumber":"EBOOK-12345","expedition":100003,"price":"55.00","orderDate":"12/10/2022"},
+                {"myrtusCode":12,"orderId":11,"article":"Music Streaming Deluxe","serialNumber":"MUSIC-67890","expedition":100003,"price":"25.50","orderDate":"11/17/2022"},
+                {"myrtusCode":13,"orderId":12,"article":"Pro Photo Editor","serialNumber":"PHOTO-11223","expedition":100003,"price":"49.99","orderDate":"10/27/2022"}
             ]
         },
         {
@@ -17,9 +17,9 @@
             "date": "2023-10-02",
             "price": "200.25",
             "products": [
-                {"myrtusCode":21,"orderId":20,"article":"Video Editor Pro","serialNumber":"VIDEO-22334","expedition":100003,"price":"80.00 €","orderDate":"9/10/2022"},
-                {"myrtusCode":22,"orderId":21,"article":"Digital Design Toolkit","serialNumber":"DESIGN-33445","expedition":100003,"price":"50.25 €","orderDate":"8/15/2022"},
-                {"myrtusCode":23,"orderId":22,"article":"3D Modeling Suite","serialNumber":"3DMODEL-55678","expedition":100003,"price":"70.00 €","orderDate":"10/05/2022"}
+                {"myrtusCode":21,"orderId":20,"article":"Video Editor Pro","serialNumber":"VIDEO-22334","expedition":100003,"price":"80.00","orderDate":"9/10/2022"},
+                {"myrtusCode":22,"orderId":21,"article":"Digital Design Toolkit","serialNumber":"DESIGN-33445","expedition":100003,"price":"50.25","orderDate":"8/15/2022"},
+                {"myrtusCode":23,"orderId":22,"article":"3D Modeling Suite","serialNumber":"3DMODEL-55678","expedition":100003,"price":"70.00","orderDate":"10/05/2022"}
             ]
         },
         {
@@ -28,9 +28,9 @@
             "date": "2023-10-03",
             "price": "175.75",
             "products": [
-                {"myrtusCode":31,"orderId":30,"article":"Ebook Science Collection","serialNumber":"SCI-12233","expedition":100003,"price":"45.75 €","orderDate":"11/02/2022"},
-                {"myrtusCode":32,"orderId":31,"article":"Learning Platform Access","serialNumber":"LEARN-44567","expedition":100003,"price":"50.00 €","orderDate":"10/20/2022"},
-                {"myrtusCode":33,"orderId":32,"article":"Audio Mastering Suite","serialNumber":"AUDIO-88990","expedition":100003,"price":"80.00 €","orderDate":"9/30/2022"}
+                {"myrtusCode":31,"orderId":30,"article":"Ebook Science Collection","serialNumber":"SCI-12233","expedition":100003,"price":"45.75","orderDate":"11/02/2022"},
+                {"myrtusCode":32,"orderId":31,"article":"Learning Platform Access","serialNumber":"LEARN-44567","expedition":100003,"price":"50.00","orderDate":"10/20/2022"},
+                {"myrtusCode":33,"orderId":32,"article":"Audio Mastering Suite","serialNumber":"AUDIO-88990","expedition":100003,"price":"80.00","orderDate":"9/30/2022"}
             ]
         },
         {
@@ -39,9 +39,9 @@
             "date": "2023-10-04",
             "price": "225.00",
             "products": [
-                {"myrtusCode":41,"orderId":40,"article":"Gaming Platform Subscription","serialNumber":"GAME-11221","expedition":100003,"price":"100.00 €","orderDate":"8/11/2022"},
-                {"myrtusCode":42,"orderId":41,"article":"Premium Movie Streaming","serialNumber":"MOVIE-33441","expedition":100003,"price":"50.00 €","orderDate":"7/10/2022"},
-                {"myrtusCode":43,"orderId":42,"article":"Digital Art Gallery Access","serialNumber":"ART-99100","expedition":100003,"price":"75.00 €","orderDate":"10/02/2022"}
+                {"myrtusCode":41,"orderId":40,"article":"Gaming Platform Subscription","serialNumber":"GAME-11221","expedition":100003,"price":"100.00","orderDate":"8/11/2022"},
+                {"myrtusCode":42,"orderId":41,"article":"Premium Movie Streaming","serialNumber":"MOVIE-33441","expedition":100003,"price":"50.00","orderDate":"7/10/2022"},
+                {"myrtusCode":43,"orderId":42,"article":"Digital Art Gallery Access","serialNumber":"ART-99100","expedition":100003,"price":"75.00","orderDate":"10/02/2022"}
             ]
         },
         {
@@ -50,9 +50,9 @@
             "date": "2023-10-05",
             "price": "310.40",
             "products": [
-                {"myrtusCode":51,"orderId":50,"article":"Ebook Fiction Collection","serialNumber":"FIC-66788","expedition":100003,"price":"110.40 €","orderDate":"7/12/2022"},
-                {"myrtusCode":52,"orderId":51,"article":"Graphic Design Tools","serialNumber":"GRAPH-22123","expedition":100003,"price":"100.00 €","orderDate":"8/13/2022"},
-                {"myrtusCode":53,"orderId":52,"article":"Digital Painting Pro","serialNumber":"PAINT-99112","expedition":100003,"price":"100.00 €","orderDate":"9/02/2022"}
+                {"myrtusCode":51,"orderId":50,"article":"Ebook Fiction Collection","serialNumber":"FIC-66788","expedition":100003,"price":"110.40","orderDate":"7/12/2022"},
+                {"myrtusCode":52,"orderId":51,"article":"Graphic Design Tools","serialNumber":"GRAPH-22123","expedition":100003,"price":"100.00","orderDate":"8/13/2022"},
+                {"myrtusCode":53,"orderId":52,"article":"Digital Painting Pro","serialNumber":"PAINT-99112","expedition":100003,"price":"100.00","orderDate":"9/02/2022"}
             ]
         },
         {
@@ -61,37 +61,37 @@
             "date": "2023-10-06",
             "price": "130.20",
             "products": [
-                {"myrtusCode":61,"orderId":60,"article":"Music Creation Studio","serialNumber":"STUDIO-11220","expedition":100003,"price":"50.20 €","orderDate":"9/01/2022"},
-                {"myrtusCode":62,"orderId":61,"article":"Language Learning Software","serialNumber":"LANG-88982","expedition":100003,"price":"40.00 €","orderDate":"10/05/2022"},
-                {"myrtusCode":63,"orderId":62,"article":"3D Animation Suite","serialNumber":"3DANI-99221","expedition":100003,"price":"40.00 €","orderDate":"8/15/2022"}
+                {"myrtusCode":61,"orderId":60,"article":"Music Creation Studio","serialNumber":"STUDIO-11220","expedition":100003,"price":"50.20","orderDate":"9/01/2022"},
+                {"myrtusCode":62,"orderId":61,"article":"Language Learning Software","serialNumber":"LANG-88982","expedition":100003,"price":"40.00","orderDate":"10/05/2022"},
+                {"myrtusCode":63,"orderId":62,"article":"3D Animation Suite","serialNumber":"3DANI-99221","expedition":100003,"price":"40.00","orderDate":"8/15/2022"}
             ]
         }
     ], 
 	"products": [
-        {"myrtusCode":31,"orderId":31,"article":"Digital Sketch Pro","serialNumber":"SKETCH-22345","expedition":100003,"price":"70.64 €","orderDate":"12/5/2022"},
-        {"myrtusCode":32,"orderId":32,"article":"Music Master","serialNumber":"MUSICM-32783","expedition":100003,"price":"93.43 €","orderDate":"8/12/2023"},
-        {"myrtusCode":33,"orderId":33,"article":"Video Render Plus","serialNumber":"VIDREND-42345","expedition":100003,"price":"80.32 €","orderDate":"10/7/2022"},
-        {"myrtusCode":34,"orderId":34,"article":"Photo Pixel Perfect","serialNumber":"PIXPERF-54767","expedition":100003,"price":"28.08 €","orderDate":"11/30/2022"},
-        {"myrtusCode":35,"orderId":35,"article":"Ebook Creator Deluxe","serialNumber":"EBOOKC-65879","expedition":100003,"price":"75.8 €","orderDate":"3/22/2023"},
-        {"myrtusCode":36,"orderId":36,"article":"Audio Editor Ultra","serialNumber":"AUDIOE-75601","expedition":100003,"price":"79.4 €","orderDate":"11/11/2022"},
-        {"myrtusCode":37,"orderId":37,"article":"3D Design King","serialNumber":"3DKING-82310","expedition":100003,"price":"49.19 €","orderDate":"12/5/2022"},
-        {"myrtusCode":38,"orderId":38,"article":"Animation Master Pro","serialNumber":"ANIM-92456","expedition":100003,"price":"746.08 €","orderDate":"5/1/2023"},
-        {"myrtusCode":39,"orderId":39,"article":"Game Dev Studio","serialNumber":"GAMEDEV-13344","expedition":100003,"price":"85.29 €","orderDate":"3/5/2023"},
-        {"myrtusCode":40,"orderId":40,"article":"Movie Effects Plus","serialNumber":"MOVIEE-24355","expedition":100003,"price":"911.29 €","orderDate":"11/4/2022"},
-        {"myrtusCode":41,"orderId":41,"article":"Language Learning Pro","serialNumber":"LANGP-35366","expedition":100003,"price":"107.87 €","orderDate":"10/2/2022"},
-        {"myrtusCode":42,"orderId":42,"article":"Digital Planner Premium","serialNumber":"PLANP-46377","expedition":100003,"price":"340.84 €","orderDate":"2/10/2023"},
-        {"myrtusCode":43,"orderId":43,"article":"Story Writing Deluxe","serialNumber":"STORYW-57388","expedition":100003,"price":"528.55 €","orderDate":"2/3/2023"},
-        {"myrtusCode":44,"orderId":44,"article":"Podcast Editor Pro","serialNumber":"PODCAST-68399","expedition":100003,"price":"893.46 €","orderDate":"2/14/2023"},
-        {"myrtusCode":45,"orderId":45,"article":"Digital Magazine Creator","serialNumber":"MAGCRE-79400","expedition":100003,"price":"21.35 €","orderDate":"6/6/2023"},
-        {"myrtusCode":46,"orderId":46,"article":"Code Editor Ultra","serialNumber":"CODEE-90411","expedition":100003,"price":"128.9 €","orderDate":"1/7/2023"},
-        {"myrtusCode":47,"orderId":47,"article":"Web Design Deluxe","serialNumber":"WEBDES-01422","expedition":100003,"price":"292.28 €","orderDate":"4/16/2023"},
-        {"myrtusCode":48,"orderId":48,"article":"Mobile App Dev Kit","serialNumber":"APPDEV-12433","expedition":100003,"price":"413.11 €","orderDate":"5/4/2023"},
-        {"myrtusCode":49,"orderId":49,"article":"Music Composer Pro","serialNumber":"MUSICP-23444","expedition":100003,"price":"63.26 €","orderDate":"2/24/2023"},
-        {"myrtusCode":50,"orderId":50,"article":"Digital Illustration Suite","serialNumber":"ILLUS-34455","expedition":100003,"price":"19.88 €","orderDate":"5/2/2023"},
-        {"myrtusCode":51,"orderId":51,"article":"Animation Effects Pro","serialNumber":"ANIME-45466","expedition":100003,"price":"22.8 €","orderDate":"12/1/2022"},
-        {"myrtusCode":52,"orderId":52,"article":"Audio Master Ultra","serialNumber":"AUDIOM-56477","expedition":100003,"price":"52.75 €","orderDate":"2/6/2023"},
-        {"myrtusCode":53,"orderId":53,"article":"3D Print Design King","serialNumber":"3DPRINT-67488","expedition":100003,"price":"27.26 €","orderDate":"1/18/2023"},
-        {"myrtusCode":54,"orderId":54,"article":"Ebook Writer Deluxe","serialNumber":"EBOOKW-78499","expedition":100003,"price":"12.74 €","orderDate":"6/9/2023"},
-        {"myrtusCode":55,"orderId":55,"article":"Digital Planner Pro","serialNumber":"PLANNER-89500","expedition":100003,"price":"40.23 €","orderDate":"5/6/2023"}
+        {"myrtusCode":31,"orderId":31,"article":"Digital Sketch Pro","serialNumber":"SKETCH-22345","expedition":100003,"price":"70.64","orderDate":"12/5/2022"},
+        {"myrtusCode":32,"orderId":32,"article":"Music Master","serialNumber":"MUSICM-32783","expedition":100003,"price":"93.43","orderDate":"8/12/2023"},
+        {"myrtusCode":33,"orderId":33,"article":"Video Render Plus","serialNumber":"VIDREND-42345","expedition":100003,"price":"80.32","orderDate":"10/7/2022"},
+        {"myrtusCode":34,"orderId":34,"article":"Photo Pixel Perfect","serialNumber":"PIXPERF-54767","expedition":100003,"price":"28.08","orderDate":"11/30/2022"},
+        {"myrtusCode":35,"orderId":35,"article":"Ebook Creator Deluxe","serialNumber":"EBOOKC-65879","expedition":100003,"price":"75.8","orderDate":"3/22/2023"},
+        {"myrtusCode":36,"orderId":36,"article":"Audio Editor Ultra","serialNumber":"AUDIOE-75601","expedition":100003,"price":"79.4","orderDate":"11/11/2022"},
+        {"myrtusCode":37,"orderId":37,"article":"3D Design King","serialNumber":"3DKING-82310","expedition":100003,"price":"49.19","orderDate":"12/5/2022"},
+        {"myrtusCode":38,"orderId":38,"article":"Animation Master Pro","serialNumber":"ANIM-92456","expedition":100003,"price":"746.08","orderDate":"5/1/2023"},
+        {"myrtusCode":39,"orderId":39,"article":"Game Dev Studio","serialNumber":"GAMEDEV-13344","expedition":100003,"price":"85.29","orderDate":"3/5/2023"},
+        {"myrtusCode":40,"orderId":40,"article":"Movie Effects Plus","serialNumber":"MOVIEE-24355","expedition":100003,"price":"911.29","orderDate":"11/4/2022"},
+        {"myrtusCode":41,"orderId":41,"article":"Language Learning Pro","serialNumber":"LANGP-35366","expedition":100003,"price":"107.87","orderDate":"10/2/2022"},
+        {"myrtusCode":42,"orderId":42,"article":"Digital Planner Premium","serialNumber":"PLANP-46377","expedition":100003,"price":"340.84","orderDate":"2/10/2023"},
+        {"myrtusCode":43,"orderId":43,"article":"Story Writing Deluxe","serialNumber":"STORYW-57388","expedition":100003,"price":"528.55","orderDate":"2/3/2023"},
+        {"myrtusCode":44,"orderId":44,"article":"Podcast Editor Pro","serialNumber":"PODCAST-68399","expedition":100003,"price":"893.46","orderDate":"2/14/2023"},
+        {"myrtusCode":45,"orderId":45,"article":"Digital Magazine Creator","serialNumber":"MAGCRE-79400","expedition":100003,"price":"21.35","orderDate":"6/6/2023"},
+        {"myrtusCode":46,"orderId":46,"article":"Code Editor Ultra","serialNumber":"CODEE-90411","expedition":100003,"price":"128.9","orderDate":"1/7/2023"},
+        {"myrtusCode":47,"orderId":47,"article":"Web Design Deluxe","serialNumber":"WEBDES-01422","expedition":100003,"price":"292.28","orderDate":"4/16/2023"},
+        {"myrtusCode":48,"orderId":48,"article":"Mobile App Dev Kit","serialNumber":"APPDEV-12433","expedition":100003,"price":"413.11","orderDate":"5/4/2023"},
+        {"myrtusCode":49,"orderId":49,"article":"Music Composer Pro","serialNumber":"MUSICP-23444","expedition":100003,"price":"63.26","orderDate":"2/24/2023"},
+        {"myrtusCode":50,"orderId":50,"article":"Digital Illustration Suite","serialNumber":"ILLUS-34455","expedition":100003,"price":"19.88","orderDate":"5/2/2023"},
+        {"myrtusCode":51,"orderId":51,"article":"Animation Effects Pro","serialNumber":"ANIME-45466","expedition":100003,"price":"22.8","orderDate":"12/1/2022"},
+        {"myrtusCode":52,"orderId":52,"article":"Audio Master Ultra","serialNumber":"AUDIOM-56477","expedition":100003,"price":"52.75","orderDate":"2/6/2023"},
+        {"myrtusCode":53,"orderId":53,"article":"3D Print Design King","serialNumber":"3DPRINT-67488","expedition":100003,"price":"27.26","orderDate":"1/18/2023"},
+        {"myrtusCode":54,"orderId":54,"article":"Ebook Writer Deluxe","serialNumber":"EBOOKW-78499","expedition":100003,"price":"12.74","orderDate":"6/9/2023"},
+        {"myrtusCode":55,"orderId":55,"article":"Digital Planner Pro","serialNumber":"PLANNER-89500","expedition":100003,"price":"40.23","orderDate":"5/6/2023"}
     ]
 }
